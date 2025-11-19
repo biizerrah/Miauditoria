@@ -12,7 +12,8 @@ def cadastrar(nome,cor,sexo):
 
   return todos_os_gatos
 
-
-cadastrar('Mingau','branco e preto','m')
-cadastrar('Malu','branco','f')
+cadastrar('Luna','Cinza','f')
+cadastrar('Mingau','Branco e Preto','m')
+cadastrar('Mia','Tigrado','f')
+cadastrar('Simba','Laranja','m')
 
