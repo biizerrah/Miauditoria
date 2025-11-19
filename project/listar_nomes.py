@@ -5,5 +5,3 @@ def visualizar():
   for gatos in todos_os_gatos.values():
     for gato in gatos:
       print(f'{gato[0]}')
-
-visualizar()

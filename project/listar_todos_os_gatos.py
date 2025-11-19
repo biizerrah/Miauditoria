@@ -22,5 +22,3 @@ def listar():
 
         for nome,cor in lista:
           print(f'Nome: {nome} | Cor: {cor}')
-
-listar()
