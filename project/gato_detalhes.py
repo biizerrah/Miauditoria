@@ -1,4 +1,4 @@
-from cadastrar import todos_os_gatos
+from .cadastrar import todos_os_gatos
 
 def consultar(consulta):
     for chave, gatos in todos_os_gatos.items():

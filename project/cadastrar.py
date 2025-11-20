@@ -11,9 +11,3 @@ def cadastrar(nome,cor,sexo):
     todos_os_gatos['m'].append(novo_gato)
 
   return todos_os_gatos
-
-cadastrar('Luna','Cinza','f')
-cadastrar('Mingau','Branco e Preto','m')
-cadastrar('Mia','Tigrado','f')
-cadastrar('Simba','Laranja','m')
-
